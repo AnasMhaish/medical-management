@@ -29,3 +29,4 @@ TestResults/
 
 # Ignore publish output
 publish/
+.fake
